@@ -1,0 +1,8 @@
+{
+  "mainnet": {
+    "enaramp": {
+      "address": "0x93ac4279ca7617f806b63e6a2406903281c27da2",
+      "startBlock": 2797979
+    }
+  }
+}
